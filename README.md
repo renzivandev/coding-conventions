@@ -1,8 +1,8 @@
 # coding-conventions
 - 2 spaces tab
 - no semicolon
-- refrain from using h1-h6, ul, li, etc.
-	- dont wanna waste time removing the default margins/paddings
+- refrain from using elements with default margins/paddings like ul,ol,li, etc.
+	- h1-h6 are exceptions
 	- can be used on special cases, provided you can justify why
 	- use div and span instead
 - use only bootstrap utility classes as much as possible 
