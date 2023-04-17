@@ -64,7 +64,7 @@
 	```
     function test () {
       if (x === y) {
-	return x
+	    return x
       }
 
       return y
