@@ -8,6 +8,12 @@
 - use only bootstrap utility classes as much as possible 
 - 120 characters per line for template
 - 80 characters per line for script
+    - exception:
+    ```
+    const accordionData = ref([
+        { title: 'Creators payment', body: 'Once you accept Leo duis ut diam quam nulla porttitor. Odio euismod lacinia at quis risus sed vulputate. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Risus nullam eget felis eget nunc. Ut enim blandit volutpat maecenas volutpat blandit.' }
+    ])
+    ```
 - for custom classes naming convention use BEM (https://getbem.com/)
 	- Unless its necessary, you don't need to have a custom class for img, a, & span
 	- Example:
