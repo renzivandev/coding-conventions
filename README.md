@@ -10,7 +10,7 @@
 - 80 characters per line for script
 - for custom classes naming convention use BEM (https://getbem.com/)
 	- Unless its necessary, you don't need to have a custom class for img, a, & span
-	Example:
+	- Example:
     ```
     <div class="header">
     <div class="header-title">
@@ -27,14 +27,14 @@
     </div>
     ```
 - function space around parentheses
-	Example:
+    - Example:
 	```
     function test () {
       // function
     }
 	```
 - new line after a block
-	Example:
+    - Example:
 	```
     function test () {
       if (x === y) {
